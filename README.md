@@ -5,8 +5,6 @@
 
 - [OpenBCI EEG Cap](#openbci-eeg-cap)
 
-- [Unicorn Naked BCI](#unicorn-naked-bci)
-
 ### Neuromodulation
 
 - [TENS 3000](#tens-3000)
@@ -47,20 +45,6 @@
 | **Components** |- streamlined, comfortable cap with adjustable chinstrap<br>- labelled Ag-AgCl electrodes/cables<br>- measuring utensils for saline conductive solution<br>- saline retaining Hydro-link conductive inserts<br>- cotton swabs for scalp preparation<br>- towel for mess-free clean-up<br>***Note** - this list is from the product page, check the actual box in case contents are different.* |
 | **Setup Instructions** | [Gelfree Electrode Cap Guide: OpenBCI Documentation](https://docs.openbci.com/AddOns/Headwear/GelfreeElectrodeCap/) |
 | **Additional Resources** | [Gelfree BCI Electrode Cap Kit Product Page](https://shop.openbci.com/collections/frontpage/products/gelfree-bci-cap-kit?variant=40785117249694)<br>[Research that uses OpenBCI hardware (including some with electrode cap)](https://docs.openbci.com/citations/)|
-
-##
-&nbsp;
-
-
-## Unicorn Naked BCI
-
-| **Category** | EEG |
-| --- | --- |
-| **Measures** | Brain activity (through electrical signals) |
-| **Summary** | The Unicorn Naked BCI is a flexible, do-it-yourself kit for building an EEG headset and BCI applications.Recommended for people who already have some experience with BCIs. |
-| **Components** |- Unicorn Naked BCI amplifier<br>- 50x Unicorn Sticky Electrodes<br>- 8x Unicorn Hybrid EEG Electrodes (can be used wet or dry)<br>- Unicorn Bluetooth Dongle<br>- Unicorn Charging Cable<br>- 1x Unicorn Suite Hybrid Black software environment (Recorder, C API, .NET API and Dev Tools applications)|
-| **Setup Instructions** | No setup instruction aviliable. [Unicorn github repo](https://github.com/unicorn-bi/) |
-| **Additional Resources** | [Unicorn Naked BCI for Open Source Enthusiasts: Unicorn Brain Interface](https://www.unicorn-bi.com/naked-bci/)|
 
 ##
 &nbsp;
