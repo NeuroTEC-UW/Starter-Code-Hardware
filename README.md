@@ -46,7 +46,7 @@
 | **Summary** | The Gelfree BCI Electrode Cap uses saline-based electrodes in a mesh cap to acquire EEG data. Recommended for people who already have some experience with BCIs. |
 | **Components** |- streamlined, comfortable cap with adjustable chinstrap<br>- labelled Ag-AgCl electrodes/cables<br>- measuring utensils for saline conductive solution<br>- saline retaining Hydro-link conductive inserts<br>- cotton swabs for scalp preparation<br>- towel for mess-free clean-up<br>***Note** - this list is from the product page, check the actual box in case contents are different.* |
 | **Setup Instructions** | [Gelfree Electrode Cap Guide: OpenBCI Documentation](https://docs.openbci.com/AddOns/Headwear/GelfreeElectrodeCap/) |
-| **Additional Resources** | [Gelfree BCI Electrode Cap Kit Product Page](https://shop.openbci.com/collections/frontpage/products/gelfree-bci-cap-kit?variant=40785117249694)[Research that uses OpenBCI hardware (including some with electrode cap)](https://docs.openbci.com/citations/)|
+| **Additional Resources** | [Gelfree BCI Electrode Cap Kit Product Page](https://shop.openbci.com/collections/frontpage/products/gelfree-bci-cap-kit?variant=40785117249694)<br>[Research that uses OpenBCI hardware (including some with electrode cap)](https://docs.openbci.com/citations/)|
 
 ##
 &nbsp;
