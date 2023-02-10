@@ -74,7 +74,7 @@
 | **Summary** | The Oculus Quest 2 is a VR headset from Meta with two touch controllers. |
 | **Components** |- VR Headset<br>- Two Touch Controllers<br>- Charging Cable<br>- Two AA Batteries<br>- Power Adapter<br>- Glasses Spacer|
 | **Setup Instructions** | [Get Started Developing for the Oculus Quest Platform](https://developer.oculus.com/quest/) |
-| **Additional Resources** | [Oculus Quest 2 Product Page](https://www.oculus.com/quest-2/) |
+| **Additional Resources** | [Unity Starter Code](https://github.com/NeuroTEC-UW/Starter-Code-VR)<br>[Oculus Quest 2 Product Page](https://www.oculus.com/quest-2/) |
 
 ##
 
